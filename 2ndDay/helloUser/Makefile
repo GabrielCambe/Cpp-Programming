@@ -1,2 +1,2 @@
 all:
-	g++ -o helloUser helloUser.cpp -Wall -Wextra
+	g++ -o helloUser helloUser.cpp -Wall -Wextra -std=c++17
