@@ -54,6 +54,7 @@
         "memory_resource": "cpp",
         "random": "cpp",
         "string": "cpp",
-        "complex": "cpp"
+        "complex": "cpp",
+        "chrono": "cpp"
     }
 }
