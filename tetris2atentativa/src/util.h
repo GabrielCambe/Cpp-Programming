@@ -13,9 +13,11 @@
 
 *******************************************************************************/
 
-#ifndef UTIL_H
-#define UTIL_H
+// #ifndef UTIL_H
+// #define UTIL_H
+
+#pragma once
 
 void sleep_milli(int milliseconds);
 
-#endif // UTIL_H
+// #endif // UTIL_H
